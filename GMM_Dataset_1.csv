@@ -1,0 +1,301 @@
+Food Item,Diet,Calories (per serving),Carbohydrates (g),Fat (g),Protein (g),Fiber (g)
+ Beef Bourguignon,Non-Veg,400,20,25,30,4
+ Coq au Vin,Non-Veg,380,15,22,28,3
+ Beef Wellington,Non-Veg,450,30,28,35,3
+ Chicken Cordon Bleu,Non-Veg,350,25,18,30,2
+ Spaghetti Bolognese,Non-Veg,380,40,15,20,3
+ Beef Stroganoff,Non-Veg,420,25,30,28,2
+ Wiener Schnitzel,Non-Veg,380,30,20,25,
+ Paella,Non-Veg,400,,20,30,4
+ Beef Rendang,Non-Veg,420,25,30,35,3
+ Chicken Marsala,Non-Veg,360,20,,28,2
+ Moussaka,Non-Veg,380,35,25,30,3
+ Osso Buco,Non-Veg,420,25,30,28,3
+ Duck à l'Orange,Non-Veg,400,20,28,35,2
+ Goulash,Non-Veg,380,30,25,30,3
+ Chicken Parmesan,Non-Veg,350,30,20,25,
+ Beef Carpaccio,Non-Veg,300,5,20,25,1
+ Lamb Tagine,Non-Veg,400,,25,30,3
+ Chicken Kiev,Non-Veg,360,25,22,30,2
+ Pork Schnitzel,Non-Veg,380,30,22,28,2
+ Beef Pot Roast,Non-Veg,380,20,25,30,3
+ Steak Diane,Non-Veg,400,15,30,35,2
+ Chicken Alfredo,Non-Veg,350,30,20,25,2
+ Beef Tacos,Non-Veg,320,25,18,20,2
+ Rack of Lamb,Non-Veg,450,10,35,30,1
+ Beef Wellington,Non-Veg,450,30,28,35,3
+ Duck Confit,Non-Veg,420,25,30,28,3
+ Chicken Piccata,Non-Veg,340,25,,,2
+ Lamb Kofta,Non-Veg,380,20,30,25,3
+ Chicken Enchiladas,Non-Veg,350,30,20,25,2
+ Beef Brisket,Non-Veg,400,15,28,30,2
+ Chicken Shawarma,Non-Veg,320,20,18,25,2
+ Veal Scallopini,Non-Veg,370,20,25,28,2
+ Lamb Gyros,Non-Veg,380,25,30,25,3
+ Beef Bulgogi,Non-Veg,350,30,20,25,2
+ Chicken Tikka Masala,Non-Veg,360,25,20,30,2
+ Beef Empanadas,Non-Veg,340,25,22,25,2
+ Duck Breast,Non-Veg,380,20,30,28,1
+ Chicken Korma,Non-Veg,350,30,22,28,2
+ Beef Braciole,Non-Veg,380,25,30,28,2
+ Chicken Satay,Non-Veg,320,,20,25,1
+ Lamb Rogan Josh,Non-Veg,390,30,28,,3
+ Beef Tournedos,Non-Veg,400,15,30,,2
+ Chicken Fajitas,Non-Veg,330,25,18,28,2
+ Pork Belly,Non-Veg,420,10,35,25,1
+ Beef Rouladen,Non-Veg,380,20,30,28,2
+ Chicken Schwarma,Non-Veg,350,25,20,30,2
+ Lamb Kebabs,Non-Veg,370,25,30,25,3
+ Beef Pho,Non-Veg,350,30,20,25,2
+ Chicken Quesadilla,Non-Veg,340,25,18,28,2
+ Pork Chop,Non-Veg,380,10,28,30,1
+ Margherita Pizza,Veg,250,30,10,12,3
+ Caprese Salad,Veg,180,10,15,8,4
+ Vegetable Lasagna,Veg,320,35,18,15,5
+ Ratatouille,Veg,220,25,12,10,4
+ Mushroom Risotto,Veg,300,40,15,10,3
+ Greek Salad,Veg,200,15,18,8,4
+ Veggie Wrap,Veg,280,30,12,10,3
+ Quinoa Salad,Veg,250,20,10,8,5
+ Falafel Wrap,Veg,320,35,15,12,
+ Spinach and Feta Pie,Veg,290,25,20,12,
+ Vegetarian Paella,Veg,,40,20,15,4
+ Veggie Burger,Veg,320,35,15,,3
+ Caprese Sandwich,Veg,280,30,12,10,3
+ Veggie Fajitas,Veg,300,25,18,12,4
+ Bruschetta,Veg,200,20,10,8,3
+ Vegetarian Chili,Veg,280,30,15,12,5
+ Veggie Stir Fry,Veg,250,30,12,10,4
+ Greek Veggie Skewers,Veg,230,20,15,10,3
+ Stuffed Bell Peppers,Veg,270,25,18,12,4
+ Eggplant Parmesan,Veg,320,30,20,14,3
+ Spanakopita,Veg,290,25,18,12,4
+ Vegetable Tagine,Veg,300,35,15,10,4
+ Vegetarian Pad Thai,Veg,280,30,15,10,3
+ Veggie Pizza,Veg,280,35,12,14,3
+ Vegetable Quesadilla,Veg,290,25,18,12,4
+ Veggie Panini,Veg,270,30,12,10,3
+ Grilled Portobello Mushroom Burger,Veg,320,25,20,15,4
+ Mushroom Stroganoff,Veg,300,25,18,12,3
+ Veggie Tacos,Veg,280,30,15,12,4
+ Ratatouille Pasta,Veg,310,,15,12,4
+ Veggie Frittata,Veg,250,20,15,12,3
+ Vegetarian Nachos,Veg,320,35,20,14,4
+ Veggie Quiche,Veg,300,25,18,12,3
+ Vegetarian Sushi,Veg,280,30,10,10,2
+ Veggie Calzone,Veg,330,40,15,14,3
+ Veggie Spring Rolls,Veg,220,20,10,8,3
+ Veggie Pad See Ew,Veg,290,35,12,10,3
+ Veggie Enchiladas,Veg,310,30,18,12,4
+ Veggie Gyros,Veg,300,25,15,10,3
+ Vegetarian Empanadas,Veg,280,30,15,12,
+ Veggie Casserole,Veg,320,35,18,15,4
+ Mushroom Tart,Veg,290,25,20,12,3
+ Vegetable Ratatouille Crepes,Veg,310,30,18,12,
+ Spinach and Ricotta Cannelloni,Veg,330,35,20,14,3
+ Veggie Stromboli,Veg,340,40,15,16,3
+ Vegetarian Shepherd's Pie,Veg,,30,18,15,4
+ Veggie Lo Mein,Veg,280,30,12,10,3
+ Veggie Pastry Puffs,Veg,300,25,20,12,3
+ Mediterranean Veggie Platter,Veg,270,20,15,10,4
+ Vegetarian Carbonara,Veg,350,30,22,,3
+ Mapo Tofu,Veg,250,15,18,,4
+ Vegetarian Dumplings,Veg,220,20,12,8,3
+ Buddha's Delight,Veg,200,25,10,5,4
+ Egg Fried Rice,Veg,280,40,10,8,2
+ Vegetable Spring Rolls,Veg,180,20,8,5,3
+ Stir-Fried Vegetables,Veg,150,15,10,6,4
+ Kung Pao Tofu,Veg,280,20,15,18,2
+ Ma Po Eggplant,Veg,260,25,12,10,3
+ Vegetable Lo Mein,Veg,300,45,10,12,3
+ Sichuan Eggplant,Veg,270,30,15,10,3
+ Vegetarian Hot and Sour Soup,Veg,180,15,8,10,2
+ General Tso's Tofu,Veg,320,30,18,20,2
+ Vegetarian Fried Rice,Veg,250,35,8,6,2
+ Tofu Stir Fry,Veg,230,20,12,15,3
+ Vegetable Chow Mein,Veg,280,40,12,,3
+ Vegetarian Ma Po Tofu,Veg,270,25,15,,2
+ Vegetarian Dim Sum,Veg,240,25,10,8,3
+ Vegetable Manchurian,Veg,290,35,15,10,4
+ Tofu and Vegetable Curry,Veg,320,,18,15,3
+ Braised Tofu,Veg,260,20,15,12,2
+ Vegetable Fried Rice,Veg,290,45,10,8,2
+ Szechuan Tofu,Veg,270,25,12,16,3
+ Vegetarian Kung Pao,Veg,300,25,15,20,2
+ Vegetarian Spring Rolls,Veg,200,25,10,6,3
+ Ma Po Tofu Noodle Soup,Veg,250,20,12,10,2
+ Vegetable Potstickers,Veg,230,20,10,8,3
+ Steamed Vegetables with Tofu,Veg,220,20,10,12,4
+ Vegetarian Szechuan Noodles,Veg,280,30,12,15,3
+ Vegetarian Chow Fun,Veg,,40,10,12,3
+ Vegetarian Egg Drop Soup,Veg,160,15,6,8,1
+ Sichuan Braised Eggplant,Veg,270,30,15,10,3
+ Tofu Fried Rice,Veg,270,35,8,10,
+ Vegetarian Ma Po Eggplant,Veg,260,25,12,10,3
+ Garlic Tofu Stir Fry,Veg,240,20,12,15,3
+ Vegetarian Wonton Soup,Veg,200,25,8,10,2
+ Vegetable Pad Thai,Veg,320,45,12,10,3
+ Vegetarian Egg Rolls,Veg,220,25,10,6,3
+ Tofu in Black Bean Sauce,Veg,280,20,15,16,2
+ Vegetarian Chow Mein,Veg,280,40,12,10,3
+ Sichuan Tofu Stir Fry,Veg,270,25,12,16,3
+ Vegetable Hakka Noodles,Veg,300,45,10,12,3
+ Tofu and Vegetable Stir Fry,Veg,250,20,12,15,3
+ Tofu Lo Mein,Veg,290,40,12,10,3
+ Braised Tofu with Vegetables,Veg,260,20,15,12,2
+ Vegetarian Dan Dan Noodles,Veg,280,30,10,15,2
+ Vegetable Singapore Noodles,Veg,310,45,12,10,
+ Tofu and Mushroom Soup,Veg,180,15,8,10,2
+ Vegetarian Moo Shu,Veg,270,30,10,12,3
+ Sichuan Tofu Noodle Soup,Veg,240,,12,,2
+ Vegetarian Hot Pot,Veg,320,25,18,20,3
+ Kung Pao Chicken,Non-Veg,350,15,20,25,3
+ Sweet and Sour Pork,Non-Veg,380,25,22,18,2
+ Mapo Tofu,Non-Veg,300,20,15,22,4
+ Dim Sum,Non-Veg,250,30,12,15,2
+ Peking Duck,Non-Veg,400,10,28,30,1
+ Beef Noodle Soup,Non-Veg,320,40,10,20,3
+ Dumplings,Non-Veg,280,25,15,18,2
+ Mongolian Beef,Non-Veg,380,20,25,28,2
+ Hot Pot,Non-Veg,350,5,20,30,3
+ Ma Po Eggplant,Non-Veg,280,20,18,15,4
+ General Tso's Chicken,Non-Veg,360,30,22,25,
+ Char Siu,Non-Veg,300,20,18,22,1
+ Shanghai Fried Noodles,Non-Veg,320,45,12,18,3
+ Cantonese Steamed Fish,Non-Veg,300,5,15,30,2
+ Szechuan Shrimp,Non-Veg,320,20,18,25,2
+ Lemon Chicken,Non-Veg,340,25,20,22,2
+ Wonton Soup,Non-Veg,250,30,10,15,2
+ Cantonese Roast Duck,Non-Veg,380,15,28,25,1
+ Beef and Broccoli,Non-Veg,350,20,22,28,3
+ Chicken Chow Mein,Non-Veg,,35,15,20,2
+ Hunan Beef,Non-Veg,,25,25,30,2
+ Crab Rangoon,Non-Veg,280,30,15,18,2
+ Garlic Prawns,Non-Veg,330,15,25,28,1
+ Beef in Black Bean Sauce,Non-Veg,360,20,22,30,2
+ Sichuan Hot and Sour Soup,Non-Veg,280,20,15,18,3
+ Fried Rice,Non-Veg,300,40,10,15,2
+ Lo Mein,Non-Veg,320,45,12,18,3
+ Chinese BBQ Pork,Non-Veg,350,25,20,25,1
+ Ma Po Chicken,Non-Veg,340,25,20,28,2
+ Cashew Chicken,Non-Veg,350,30,22,25,2
+ Peking Pork Chops,Non-Veg,380,35,25,30,1
+ Crab Fried Rice,Non-Veg,360,40,18,20,2
+ Wuxi Spare Ribs,Non-Veg,370,30,25,28,2
+ Beijing Beef,Non-Veg,360,25,22,30,2
+ Lemon Shrimp,Non-Veg,330,20,25,,1
+ Hunan Chicken,Non-Veg,360,30,22,28,2
+ Shrimp Fried Rice,Non-Veg,320,35,12,20,2
+ Egg Drop Soup,Non-Veg,200,15,8,10,1
+ Peking Chicken,Non-Veg,350,25,20,25,1
+ General Tso's Shrimp,Non-Veg,370,35,22,28,2
+ Cantonese Chow Mein,Non-Veg,330,40,15,20,2
+ Twice Cooked Pork,Non-Veg,360,20,25,28,2
+ Hunan Beef Stir Fry,Non-Veg,370,30,25,30,2
+ Orange Chicken,Non-Veg,350,30,22,25,2
+ Wonton Noodle Soup,Non-Veg,280,35,10,15,2
+ Mongolian Lamb,Non-Veg,380,25,28,30,1
+ Shrimp Lo Mein,Non-Veg,340,45,15,22,3
+ Shrimp with Lobster Sauce,Non-Veg,330,20,25,28,2
+ Szechuan Beef,Non-Veg,370,30,22,30,2
+ Cantonese Fried Shrimp,Non-Veg,360,,22,25,2
+ Butter Chicken,Non-Veg,350,10,20,25,2
+ Rogan Josh,Non-Veg,380,15,25,28,3
+ Hyderabadi Biryani,Non-Veg,400,30,22,30,4
+ Chicken Tikka Masala,Non-Veg,360,12,22,28,2
+ Tandoori Chicken,Non-Veg,320,5,18,30,1
+ Masala Dosa,Non-Veg,280,40,15,10,3
+ Fish Curry,Non-Veg,300,20,18,25,2
+ Chicken Korma,Non-Veg,380,20,25,28,2
+ Egg Curry,Non-Veg,320,15,20,25,2
+ Mutton Biryani,Non-Veg,420,35,28,,3
+ Chettinad Chicken,Non-Veg,360,15,22,30,2
+ Keema Naan,Non-Veg,340,30,18,20,3
+ Malabar Fish Curry,Non-Veg,340,25,22,28,2
+ Chicken Vindaloo,Non-Veg,370,20,25,30,2
+ Andhra Chicken Curry,Non-Veg,350,18,22,28,3
+ Egg Biryani,Non-Veg,360,30,20,25,2
+ Goan Prawn Curry,Non-Veg,340,25,22,28,2
+ Murg Makhani (Chicken Butter Masala),Non-Veg,380,15,25,28,2
+ Chicken Chettinadu,Non-Veg,,15,22,30,2
+ Kolhapuri Chicken,Non-Veg,380,20,25,30,3
+ Amritsari Fish Fry,Non-Veg,350,20,22,28,2
+ Chicken 65,Non-Veg,320,25,18,25,2
+ Bengali Fish Curry,Non-Veg,340,20,22,28,2
+ Hyderabadi Chicken Biryani,Non-Veg,400,30,25,30,3
+ Chicken Sukka,Non-Veg,350,18,22,28,3
+ Bengali Prawn Curry,Non-Veg,330,25,20,25,2
+ Nalli Nihari,Non-Veg,380,20,25,30,3
+ Parsi Salli Boti,Non-Veg,370,15,25,28,2
+ Chettinad Fish Fry,Non-Veg,350,20,22,28,2
+ Lucknowi Chicken Korma,Non-Veg,380,20,25,28,2
+ Kerala Chicken Curry,Non-Veg,350,20,22,28,2
+ Bengali Kosha Mangsho,Non-Veg,380,20,,30,3
+ Andhra Mutton Curry,Non-Veg,390,25,28,35,3
+ Prawn Gassi,Non-Veg,360,25,22,28,2
+ Punjabi Chicken Curry,Non-Veg,370,20,25,,2
+ Kashmiri Lamb Rogan Josh,Non-Veg,380,20,25,28,3
+ Goan Chicken Xacuti,Non-Veg,360,20,25,30,2
+ Chicken Rezala,Non-Veg,360,20,25,28,2
+ Kerala Fish Molee,Non-Veg,350,20,22,28,2
+ Mughlai Chicken,Non-Veg,380,20,25,30,3
+ Chicken Manchurian,Non-Veg,340,25,18,25,2
+ Andhra Prawn Curry,Non-Veg,360,25,22,28,2
+ Hyderabadi Mutton Biryani,Non-Veg,420,35,28,35,3
+ Kolkata Fish Roll,Non-Veg,330,25,20,25,2
+ Malvani Chicken Curry,Non-Veg,370,20,25,30,3
+ Kozhi Varutha Curry,Non-Veg,360,20,25,28,3
+ Rajasthani Laal Maas,Non-Veg,380,20,25,30,2
+ Murgh Malai Tikka,Non-Veg,350,15,22,28,2
+ Punjabi Fish Fry,Non-Veg,360,20,22,28,2
+ Mutton Korma,Non-Veg,390,20,25,35,3
+ Paneer Tikka North,Veg,300,10,20,15,2
+ Chole Bhature,Veg,400,45,20,10,5
+ Aloo Paratha,Veg,350,40,15,8,4
+ Vegetable Biryani,Veg,380,35,18,10,3
+ Masoor Dal,Veg,250,25,10,15,6
+ Palak Paneer,Veg,320,15,22,12,4
+ Baingan Bharta,Veg,280,20,18,10,3
+ Rajma Masala,Veg,300,30,12,15,5
+ Veg Pulao,Veg,350,40,15,,3
+ Malai Kofta,Veg,380,25,22,12,4
+ Aloo Gobi,Veg,280,20,15,10,3
+ Veggie Pizza,Veg,320,30,,12,3
+ Dhokla,Veg,200,30,8,,2
+ Pav Bhaji,Veg,350,40,15,8,4
+ Paneer Butter Masala,Veg,350,20,25,15,2
+ Vegetable Upma,Veg,300,35,10,8,4
+ Veg Manchurian,Veg,320,25,20,10,3
+ Pani Puri,Veg,250,30,10,5,2
+ Vegetable Cutlet,Veg,280,25,15,8,3
+ Vegetable Fried Rice,Veg,340,40,12,10,3
+ Matar Paneer,Veg,330,25,20,12,3
+ Samosa,Veg,280,30,15,8,2
+ Veg Handi,Veg,,30,20,12,4
+ Mushroom Masala,Veg,290,20,18,10,3
+ Vegetable Korma,Veg,320,30,22,10,4
+ Veg Noodles,Veg,310,35,15,8,3
+ Aloo Matar,Veg,280,25,15,10,3
+ Gobi Manchurian,Veg,310,25,18,,3
+ Veggie Burger,Veg,340,30,18,10,3
+ Vegetable Soup,Veg,150,20,5,5,3
+ Paneer Bhurji,Veg,300,15,20,,2
+ Veggie Wrap,Veg,320,35,15,,3
+ Veggie Sandwich,Veg,300,30,15,8,3
+ Tomato Soup,Veg,120,15,5,3,2
+ Veggie Pasta,Veg,350,40,20,12,3
+ Veggie Omelette,Veg,280,10,20,15,2
+ Palak Soup,Veg,130,15,5,5,3
+ Veggie Stir-Fry,Veg,280,30,15,10,4
+ Aloo Tikki,Veg,250,25,10,8,3
+ Veggie Casserole,Veg,330,35,20,12,4
+ Veggie Lasagna,Veg,360,40,20,15,3
+ Dal Tadka,Veg,270,20,12,15,4
+ Vegetable Sambar,Veg,250,30,10,10,5
+ Veggie Stew,Veg,300,35,15,,4
+ Veggie Cutlet,Veg,280,25,15,8,3
+ Veggie Frittata,Veg,290,15,20,12,3
+ Paneer Bhaji,Veg,320,20,25,15,2
+ Corn Pulao,Veg,,40,15,8,3
+ Veggie Pancakes,Veg,270,30,12,8,
+ Veggie Pie,Veg,340,35,18,10,3
