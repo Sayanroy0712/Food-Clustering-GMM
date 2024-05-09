@@ -48,18 +48,6 @@ ___
 
 ___
 
-## Model Learning
-
-•	The parameters of a Gaussian Mixture Model are typically learned using the Expectation-Maximization (EM) algorithm.
-
-•	The EM algorithm iteratively updates the parameters to maximize the likelihood of the observed data given the model.
-
-•	In the E-step, the algorithm computes the posterior probabilities (responsibilities) of each data point belonging to each Gaussian component.
-
-•	In the M-step, the algorithm updates the parameters (means, covariances, and mixing coefficients) based on the current posterior probabilities.
-
-___
-
 ## Clustering and Density Estimation
 
 •	GMMs can be used for clustering by assigning each data point to the cluster with the highest posterior probability.
